@@ -65,14 +65,6 @@
 * Exploring machine learning for business analytics use cases
 
 ---
-
-## 📊 GitHub Stats
-
-![Esha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esha-Mali&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mali&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esha%20Mali-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/esha-mali)
