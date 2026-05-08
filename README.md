@@ -35,23 +35,6 @@ I enjoy turning raw data into clear, actionable insights — whether that's thro
 
 ---
 
-## Featured Projects
-
-### ☕ Coffee Shop Sales Dashboard
-> Excel-based end-to-end sales analysis across 3 NYC store locations  
-> **149K+ transactions · $698K revenue · Jan–Jun 2023**  
-> Built with: `Excel` `Pivot Tables` `Slicers` `Dashboard Design`  
-> 🔗 [View Project](https://github.com/Esha-Mali/coffee-shop-main)
-
----
-
-## GitHub Stats
-
-![Esha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esha-Mali&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esha-Mali&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esha%20Mali-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/esha-mali)
