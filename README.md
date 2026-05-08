@@ -45,19 +45,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### ☕ Coffee Shop Sales Dashboard
-> End-to-end Excel sales analysis across **3 NYC store locations**
-> **149K+ transactions · ~$698K revenue · Jan–Jun 2023**
-- Built an interactive Excel Dashboard with Pivot Tables, Pivot Charts, and Slicers
-- Performed feature engineering — derived Size, Hour, Day, Month columns from raw timestamps
-- Analysed revenue trends, peak hours, and product category performance
-
-🔗 [View Project](https://github.com/Esha-Mali/coffee-shop-main)
-
----
-
 ## 🎯 Current Focus
 
 * Building end-to-end data projects for my portfolio
